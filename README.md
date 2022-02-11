@@ -1,5 +1,5 @@
 This is Chanwoo Kim's old GitHub account.
-Please visit here: https://github.com/chanwkimlab
+Please visit here instead: https://github.com/chanwkimlab
 
 <!--
 **ch6845/ch6845** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
