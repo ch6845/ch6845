@@ -1,4 +1,4 @@
-This is chanwoo's old GitHub account.
+This is Chanwoo Kim's old GitHub account.
 Please visit here: https://github.com/chanwkimlab
 
 <!--
